@@ -1,0 +1,189 @@
+{
+    "categorias": [
+      {
+        "titulo": "LEGENDS",
+        "link": "https://www.youtube.com/watch?v=-_f1E2cq68U",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Epic Fails e Lendas!",
+          "url": "https://www.youtube.com/watch?v=-_f1E2cq68U"
+        },
+        "videos": [
+          {
+            "titulo": "Explore mais de duas décadas de conteúdo!",
+            "url": "https://www.youtube.com/watch?v=-_f1E2cq68U"
+          },
+          {
+            "titulo": "Daniel Paladino Na minha frente em Edron!",
+            "url": "https://www.youtube.com/watch?v=8jmKSFBW3zY"
+          },
+          {
+            "titulo": "Del'toro vs The Light",
+            "url": "https://www.youtube.com/watch?v=999ahubaZ1k"
+          },
+          {
+            "titulo": "Acko e Bozkizeuss, PVP Masters",
+            "url": "https://www.youtube.com/watch?v=qknAMulW7Oo"
+          },
+          {
+            "titulo": "SS Antigas! <lindos sprites!>",
+            "url": "https://www.youtube.com/watch?v=BiIs29bMVi4"
+          },
+          {
+            "titulo": "Demon Helmet Quest - Cachero",
+            "url": "https://www.youtube.com/watch?v=6ZvCnbDmH1g"
+          },
+          {
+            "titulo": "Serial Killer de Botters",
+            "url": "https://www.youtube.com/watch?v=qwZKxPXTeYI"
+          },
+          {
+            "titulo": "Anihilator infinita",
+            "url": "https://www.youtube.com/watch?v=gze-2r-jbKE"
+          }      
+        ]
+      },
+      {
+        "titulo": "TRAPS LENDÁRIAS",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "It's a trap Bino!",
+          "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
+        },
+        "videos": [
+          {
+            "titulo": "The Witch Trap",
+            "url": "https://www.youtube.com/watch?v=XZJcpfykm9o"
+          },
+          {
+            "titulo": "Mino-Mage Trap",
+            "url": "https://www.youtube.com/watch?v=XZJcpfykm9o"
+          },
+          {
+            "titulo": "OH Trap + Beholder Luring + DS Trap",
+            "url": "https://www.youtube.com/watch?v=BzruNwB9rr0"
+          },
+          {
+            "titulo": "PK trap in Kazz",
+            "url": "https://www.youtube.com/watch?v=vG-splreGLw"
+          }
+        ]
+      },
+      {
+        "titulo": "BOSSES",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Antes e depois! {pouco mudou}",
+          "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
+        },
+        "videos": [
+          {
+            "titulo": "Orshabaal - 2006",
+            "url": "https://www.youtube.com/watch?v=Nb_CC8TolEg"
+          },
+          {
+            "titulo": "Orshabaal - 2017",
+            "url": "https://www.youtube.com/watch?v=hnmy5ta3hhw"
+          },
+          {
+            "titulo": "Ferumbras - 2008",
+            "url": "https://www.youtube.com/watch?v=aBIRSnUaHT0"
+          },
+          {
+            "titulo": "Ferumbras - 2020",
+            "url": "https://www.youtube.com/watch?v=eTvhbGDm5qY"
+          },
+          {
+            "titulo": "Gaz'Haragoth - 2015",
+            "url": "https://www.youtube.com/watch?v=tQ7YRCJaJHw"
+          },
+          {
+            "titulo": "Gaz'Haragoth - 2018",
+            "url": "https://www.youtube.com/watch?v=8TzJq1g3RUo"
+          }
+        ]
+      },
+      {
+        "titulo": "WAR",
+        "cor": "orange",
+        "link_extra":{
+          "text": "Ahhhh nada como uma warzinha!",
+          "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
+        },
+        "videos": [
+          {
+            "titulo": "War em Amera I",
+            "url": "https://www.youtube.com/watch?v=d3uD0B_jkfY"
+          },
+          {
+            "titulo": "War em Amera II",
+            "url": "https://www.youtube.com/watch?v=2lzrhOiXtic"
+          },
+          {
+            "titulo": "War em Antica",
+            "url": "https://www.youtube.com/watch?v=AhLN4ZKL4AE"
+          },
+          {
+            "titulo": "Total War I",
+            "url": "https://www.youtube.com/watch?v=OirNYWFlyzQ"
+          },
+          {
+            "titulo": "Total War II",
+            "url": "https://www.youtube.com/watch?v=g4AIxefVA3w"
+          }
+        ]
+      },
+      {
+        "titulo": "TIBIA - 2020",
+        "cor": "red",
+        "link_extra": {
+          "text": "Atualidades: bug abusers, lvl up etc",
+          "url": "https://www.youtube.com/watch?v=BGvRvUqVlKc"
+        },
+        "videos": [
+          {
+            "titulo": "Atualidades: Summer Update dos HL",
+            "url": "https://www.youtube.com/watch?v=tgsUtaoqVBQ"
+          },
+          {
+            "titulo": "Atualidades: A war não muda!",
+            "url": "https://www.youtube.com/watch?v=zwONEorsxCk"
+          }          
+        ]
+      },
+      {
+        "titulo": "TUTUBERS",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "Nostalgia né minha filha?!",
+          "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
+        },
+        "videos": [
+          {
+            "titulo": "Emulov Sun",
+            "url": "https://www.youtube.com/watch?v=CDF-uYHb_FU"
+          },
+          {
+            "titulo": "Eric/Psykik",
+            "url": "https://www.youtube.com/watch?v=WpwQ3mIAxxk"
+          },
+          {
+            "titulo": "Nalu",
+            "url": "https://www.youtube.com/watch?v=rdbY0eMpeoA"
+          },
+          {
+            "titulo": "Lady Drica",
+            "url": "https://www.youtube.com/watch?v=lgPQI851AFA"
+          },
+          {
+            "titulo": "Katwo",
+            "url": "https://www.youtube.com/watch?v=l7yoCnBmKNQ"
+          },
+          {
+            "titulo": "Bubba",
+            "url": "https://www.youtube.com/watch?v=jeRuvhDef_w"
+          }
+        ]
+      }
+    ]
+  }

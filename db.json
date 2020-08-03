@@ -1,0 +1,22 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Lendas",
+      "descricao": "Lendas e Epic Fails",
+      "cor": "#FFD700"
+    },
+    {
+      "id": 2,
+      "nome": "Bosses",
+      "descricao": "Super Chefões! #sqn",
+      "cor": "#48D1CC"
+    },
+    {
+      "id": 3,
+      "nome": "War",
+      "descricao": "It's a trap Bino!",
+      "cor":"#90EE90"
+    }    
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Lendas",
+            "descricao": "Epic Fails e Lendas Tibianas",
+            "cor": "#FFD700"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
       {
         "titulo": "LEGENDS",
         "link": "https://www.youtube.com/watch?v=-_f1E2cq68U",
-        "cor": "#6BD1FF",
+        "cor": "#DAA520",
         "link_extra": {
           "text": "Epic Fails e Lendas!",
           "url": "https://www.youtube.com/watch?v=-_f1E2cq68U"
@@ -44,8 +44,8 @@
         ]
       },
       {
-        "titulo": "TRAPS LENDÁRIAS",
-        "cor": "#00C86F",
+        "titulo": "TRAPS ÉPICAS",
+        "cor": "#4682B4",
         "link_extra": {
           "text": "It's a trap Bino!",
           "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
@@ -71,7 +71,7 @@
       },
       {
         "titulo": "BOSSES",
-        "cor": "#9cd33b",
+        "cor": "#FF6347",
         "link_extra": {
           "text": "Antes e depois! {pouco mudou}",
           "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
@@ -135,7 +135,7 @@
       },
       {
         "titulo": "TIBIA - 2020",
-        "cor": "red",
+        "cor": "#008080",
         "link_extra": {
           "text": "Atualidades: bug abusers, lvl up etc",
           "url": "https://www.youtube.com/watch?v=BGvRvUqVlKc"
@@ -153,7 +153,7 @@
       },
       {
         "titulo": "TUTUBERS",
-        "cor": "#6b5be2",
+        "cor": "#F4A460",
         "link_extra": {
           "text": "Nostalgia né minha filha?!",
           "url": "https://www.youtube.com/channel/UCg5vFOB3tN8KGcJDyk6QQzQ/home"
